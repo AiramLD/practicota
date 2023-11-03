@@ -1,0 +1,28 @@
+{
+  "name": "practicota",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AiramLD/practicota.git"
+  },
+  "author": "airam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AiramLD/practicota/issues"
+  },
+  "homepage": "https://github.com/AiramLD/practicota#readme",
+  "devDependencies": {
+    "@babel/eslint-parser": "^7.22.15",
+    "@types/jest": "^29.5.7",
+    "eslint": "^8.52.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.29.0",
+    "eslint-plugin-jest": "^27.6.0",
+    "jest": "^29.7.0"
+  }
+}
